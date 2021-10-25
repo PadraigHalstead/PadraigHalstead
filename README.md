@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PadraigHalstead
 - 🌱 I’m currently learning C# and the JavaScript frameworks React, and TypeScript.
-- 💞️ I’m looking to collaborate on projects that I find would be useful to a wide audience.
+- 💞️ I’m currently developing a web app using these frameworks.
 
 <!---
 PadraigHalstead/PadraigHalstead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

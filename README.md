@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="border-radius 100px" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
+  <img style="border-radius: 50px" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
 </div>
 
 - 👋 Hi, I’m @PadraigHalstead

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/C4E03AQGjuCvIiR9yZw/profile-displayphoto-shrink_800_800/0/1634381713805 e=1706745600&v=beta&t=v6xvaOniqIYYoTzg0JXZW9mln3WxwCtS0bfq5lNrpgQ" width="100"/>
+  <img src="https://media.licdn.com/dms/image/C4E03AQGjuCvIiR9yZw/profile-displayphoto-shrink_800_800/0/1634381713805 e=1706745600&v=beta&t=v6xvaOniqIYYoTzg0JXZW9mln3WxwCtS0bfq5lNrpgQ](https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m @PadraigHalstead

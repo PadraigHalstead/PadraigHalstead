@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br><br>
 --->
-<h2 align="center">Current Technologies<h2>
+<h2 align="center">Technologies I've used<h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,react,solidjs,aws,tailwind,postgres,linux,go,docker,py,github,vercel,neovim&perline=7" />
+   <img src="https://skillicons.dev/icons?i=js,ts,react,solidjs,aws,tailwind,postgres,linux,go,docker,py,github,vercel,neovim,postman,planetscale,php,godot,firebase,ros,prisma&perline=7" />
 </p>
 <br><br>
 

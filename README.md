@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rickandmorty-season-4-episode-7-rick-and-morty-JsEDe5fTepBIDnaZKT">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <!--<img src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0"/> -->
   <h1 align="center">Hi 👋, I'm Padraig Halstead</h1>
   <h3 align="center">Junior Software Engineer</h3>  

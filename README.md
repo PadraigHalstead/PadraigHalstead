@@ -2,9 +2,7 @@
 <div id="header" align="center" style="border-radius: 50">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
   <h1 align="center">Hi 👋, I'm Padraig Halstead</h1>
-  <h3 align="center">Junior Software Engineer</h3>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=padraighalstead&label=Profile%20views&color=red&style=plastic" alt="padraighalstead" /> </p>
-  
+  <h3 align="center">Junior Software Engineer</h3>  
 </div>
 
 
@@ -36,6 +34,8 @@ You can click the Preview link to take a look at your changes.
    <img src="https://skillicons.dev/icons?i=js,ts,react,solidjs,aws,tailwind,postgres,linux,go,docker,py,github,vercel,neovim&perline=7" />
 </p>
 <br><br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=padraighalstead&label=Profile%20views&color=red&style=plastic" alt="padraighalstead" /> </p>
 
 <!---
 <p align="center">

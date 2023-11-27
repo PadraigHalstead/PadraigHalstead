@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width="100"/>
+  <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" />
 </div>
 
 - 👋 Hi, I’m @PadraigHalstead

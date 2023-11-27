@@ -8,9 +8,10 @@
 <!-- Header -->
 <div id="header" align="center" style="border-radius: 50">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
+  <i class="ci ci-spotify ci-2x"></i>
 </div>
 
-<i class="ci ci-spotify ci-2x"></i>
+
 
 
 

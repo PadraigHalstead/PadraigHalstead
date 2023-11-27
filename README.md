@@ -1,6 +1,9 @@
 <!-- Header -->
-<div id="header" align="center" style="border-radius: 50">
-<!--  <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125 style="border-radius: 50%"/> -->
+
+<iframe src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rickandmorty-season-4-episode-7-rick-and-morty-JsEDe5fTepBIDnaZKT">via GIPHY</a></p>
+
+<div id="header" align="center">
+<img src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0"/>
   <h1 align="center">Hi 👋, I'm Padraig Halstead</h1>
   <h3 align="center">Junior Software Engineer</h3>  
 </div>

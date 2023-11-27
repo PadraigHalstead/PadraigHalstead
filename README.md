@@ -5,11 +5,12 @@
   <h3 align="center">Junior Software Engineer</h3>  
 </div>
 
-
-
-
-- 🌱 I’m currently learning the JavaScript frameworks React, and TypeScript.
-
+<br>
+<p align="center">
+I work as a software deployment engineer @Precia Molen Ireland
+I’m currently learning Solidjs, Postgres, and Typescript
+</p>
+<br>
 
 <!---
 PadraigHalstead/PadraigHalstead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

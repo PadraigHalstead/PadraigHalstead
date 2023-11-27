@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.licdn.com/dms/image/C4E03AQGjuCvIiR9yZw/profile-displayphoto-shrink_800_800/0/1634381713805 e=1706745600&v=beta&t=v6xvaOniqIYYoTzg0JXZW9mln3WxwCtS0bfq5lNrpgQ" width="100"/>
+</div>
+
 - 👋 Hi, I’m @PadraigHalstead
 - 🌱 I’m currently learning the JavaScript frameworks React, and TypeScript.
 

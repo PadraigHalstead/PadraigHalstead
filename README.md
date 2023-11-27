@@ -8,7 +8,6 @@
 <!-- Header -->
 <div id="header" align="center" style="border-radius: 50">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
-  <i class="ci ci-spotify ci-2x"></i>
 </div>
 
 
@@ -39,9 +38,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br><br>
 --->
-
+<h2 align="center">Current Technologies<h2>
 <p align="center">
-   <h2>Current Technologies<h2>
    <img src="https://skillicons.dev/icons?i=js,ts,react,solidjs,aws,tailwind,postgres,linux,go,docker,py,github,vercel,neovim&perline=7" />
 </p>
 <br><br>

@@ -4,8 +4,9 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<!--<img src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0"/> -->
+  <img src="https://media.giphy.com/media/JsEDe5fTepBIDnaZKT/giphy.gif" width="125" height="125" />
+<!--  <img src="https://giphy.com/" width="480" height="289" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://giphy.com/embed/JsEDe5fTepBIDnaZKT" width="480" height="289" frameBorder="0"/> -->
   <h1 align="center">Hi 👋, I'm Padraig Halstead</h1>
   <h3 align="center">Junior Software Engineer</h3>  
 </div>

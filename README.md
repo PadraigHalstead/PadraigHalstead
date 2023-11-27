@@ -1,6 +1,6 @@
 <!-- Header -->
 <div id="header" align="center" style="border-radius: 50">
-  <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125 style="border-radius: 50%"/>
+<!--  <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125 style="border-radius: 50%"/> -->
   <h1 align="center">Hi 👋, I'm Padraig Halstead</h1>
   <h3 align="center">Junior Software Engineer</h3>  
 </div>

@@ -6,10 +6,10 @@
 </div>
 
 <br>
-<p align="center">
-I work as a software deployment engineer @Precia Molen Ireland
-I’m currently learning Solidjs, Postgres, and Typescript
-</p>
+
+- I work as a software deployment engineer @ Precia Molen Ireland.
+- I’m currently learning Solidjs, Postgres, and Typescript.
+
 <br>
 
 <!---

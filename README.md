@@ -1,6 +1,20 @@
+<!-- Social Icons --->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.0/src/app/ci.min.css"
+/>
+
+
+<!-- Header -->
 <div id="header" align="center" style="border-radius: 50">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width=125 height=125/>
 </div>
+
+<i class="ci ci-spotify ci-2x"></i>
+
+
+
+
 
 - 👋 Hi, I’m @PadraigHalstead
 - 🌱 I’m currently learning the JavaScript frameworks React, and TypeScript.

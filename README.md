@@ -13,9 +13,6 @@
 
 <br>
 
-- I work as a software deployment engineer @ Precia Molen Ireland.
-- I’m currently learning Python.
-
 <br>
 
 <!---
